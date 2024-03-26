@@ -1,0 +1,5 @@
+export const ADD_ITEM = 'ADD_ITEM'
+export const DELETE_ITEM = 'DELETE_ITEMS'
+export const SET_LIST = 'SET_LIST'
+export const CLEAR_LIST = 'CLEAR_LIST'
+export const DELETE_BY_VALUE = 'DELETE_BY_VALUE'
